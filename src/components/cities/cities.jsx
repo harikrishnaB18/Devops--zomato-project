@@ -1,4 +1,3 @@
-
 import React from "react";
 import "./Cities.scss";
 import ChevronRightIcon from "@mui/icons-material/ChevronRight";
